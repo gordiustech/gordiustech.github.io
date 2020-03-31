@@ -9,5 +9,19 @@
         "name": "Gordius Technologies Inc."
     },
     "items": [
+        {
+            "id": "https://www.gordius.tech/ai-driven-robust-algorithmic-trading.html",
+            "url": "https://www.gordius.tech/ai-driven-robust-algorithmic-trading.html",
+            "title": "AI-Driven Robust Algorithmic Trading",
+            "summary": "At Gordius Technologies; we develop and implement algorithms within a novel software stack to process, analyze and act on streaming real-time data sources as well as static batch data sources. We currently use this technology on real-time data feeds from cryptocurrency exchanges to perform algorithmic trading, engaging in both&hellip;",
+            "content_html": "<p class=\"p1\">At Gordius Technologies; we develop and implement algorithms within a novel software stack to process, analyze and act on streaming real-time data sources as well as static batch data sources. We currently use this technology on real-time data feeds from cryptocurrency exchanges to perform algorithmic trading, engaging in both market making and speculative trading.</p>",
+            "author": {
+                "name": "Gordius Technologies Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-31T14:18:37-04:00",
+            "date_modified": "2020-03-31T14:18:37-04:00"
+        }
     ]
 }
