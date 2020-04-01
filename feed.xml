@@ -3,7 +3,7 @@
     <title>Gordius Technologies</title>
     <link href="https://www.gordius.tech/feed.xml" rel="self" />
     <link href="https://www.gordius.tech" />
-    <updated>2020-03-31T21:08:41-04:00</updated>
+    <updated>2020-03-31T21:10:59-04:00</updated>
     <author>
         <name>Gordius Technologies Inc.</name>
     </author>
@@ -32,14 +32,14 @@
         </content>
     </entry>
     <entry>
-        <title>AI-Driven Mission-Critical Stream Processing</title>
+        <title>AI-Driven Stream Processing</title>
         <author>
             <name>Gordius Technologies Inc.</name>
         </author>
         <link href="https://www.gordius.tech/summary.html"/>
         <id>https://www.gordius.tech/summary.html</id>
 
-        <updated>2020-03-31T18:28:17-04:00</updated>
+        <updated>2020-03-31T21:10:52-04:00</updated>
             <summary>
                 <![CDATA[
                     Summarize.
