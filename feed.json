@@ -14,8 +14,8 @@
             "id": "https://www.gordius.tech/applications.html",
             "url": "https://www.gordius.tech/applications.html",
             "title": "Applications",
-            "summary": "Describe applications here.",
-            "content_html": "Describe applications here.",
+            "summary": "Algorithmic TradingEven though a significant volume of modern-day trading is algorithmic, this volume is not diverse; it is mainly due to a few firms. Most individual and/or small-scale investors still do not have the means to engage in algorithmic trading. Our technology can help mitigate this&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1e4raqbgm0\">Algorithmic Trading</h2>\n<p>Even though a significant volume of modern-day trading is algorithmic, this volume is not diverse; it is mainly due to a few firms. Most individual and/or small-scale investors still do not have the means to engage in algorithmic trading. Our technology can help mitigate this situation and make algorithmic trading more accessible to all interested parties.</p>\n<p>In order to prove our technology, we are currently using it ourselves to engage in algorithmic trading in cryptocurrency exchanges. If successful, this operation will also generate our first revenue stream.</p>\n<h2 id=\"mcetoc_1e4raqikl1\">Industrial IoT</h2>\n<p>The rise of IIoT (Industrial IoT) edge devices has made the <em>Industry 4.0</em> vision achievable, yet many small/mid-market business are not able to take advantage of this promising paradigm shift. We believe that this unfortunate situation is mainly due to the absence of a turnkey end-to-end system these businesses can adopt with only a small amount of friction to their current day-to-day operations.</p>\n<p>We hope to utilize our technology to enable small/mid-market businesses to take advantage of the Industry 4.0 paradigm.</p>",
             "image": "https://www.gordius.tech/media/posts/5/Applications-Blackboard-3.jpg",
             "author": {
                 "name": "Gordius Technologies Inc."
@@ -23,21 +23,21 @@
             "tags": [
             ],
             "date_published": "2020-03-31T18:26:18-04:00",
-            "date_modified": "2020-03-31T22:03:50-04:00"
+            "date_modified": "2020-04-01T13:22:32-04:00"
         },
         {
             "id": "https://www.gordius.tech/summary.html",
             "url": "https://www.gordius.tech/summary.html",
-            "title": "AI-Driven Stream Processing",
-            "summary": "Summarize.",
-            "content_html": "Summarize.",
+            "title": "Our Company",
+            "summary": "Mission and VisionWe believe that high-efficiency stream processing, when driven by robust AI techniques, can be a game-changing advantage for many businesses. At Gordius Technologies, we strive to develop a complete E2E system for processing, analyzing, storing and acting on high-throughput time-series data. Our strategy is to&hellip;",
+            "content_html": "<h2 id=\"mcetoc_1e4r9ff7c0\">Mission and Vision</h2>\n<p>We believe that high-efficiency stream processing, when driven by robust AI techniques, can be a game-changing advantage for many businesses. At Gordius Technologies, we strive to develop a complete E2E system for processing, analyzing, storing and acting on high-throughput time-series data.</p>\n<h2 id=\"mcetoc_1e4r9jdch1\">Focus Areas</h2>\n<p>Our strategy is to introduce our technology into verticals where time-series data is the central \"resource\" or the \"asset\" of businesses. As a first step, we chose to focus on the algorithmic trading space. Our second focus area will be the IIoT (Industrial IoT) space.</p>",
             "author": {
                 "name": "Gordius Technologies Inc."
             },
             "tags": [
             ],
             "date_published": "2020-03-31T17:01:14-04:00",
-            "date_modified": "2020-03-31T21:10:52-04:00"
+            "date_modified": "2020-04-01T12:57:03-04:00"
         },
         {
             "id": "https://www.gordius.tech/our-technology.html",
@@ -60,13 +60,14 @@
             "title": "About Us",
             "summary": "Describe the team.",
             "content_html": "Describe the team.",
+            "image": "https://www.gordius.tech/media/posts/2/About-Us-Blackboard.jpg",
             "author": {
                 "name": "Gordius Technologies Inc."
             },
             "tags": [
             ],
             "date_published": "2020-03-31T16:35:25-04:00",
-            "date_modified": "2020-03-31T16:35:25-04:00"
+            "date_modified": "2020-04-01T12:21:33-04:00"
         }
     ]
 }
