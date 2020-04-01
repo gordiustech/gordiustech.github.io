@@ -3,7 +3,7 @@
     <title>Gordius Technologies</title>
     <link href="https://www.gordius.tech/feed.xml" rel="self" />
     <link href="https://www.gordius.tech" />
-    <updated>2020-04-01T13:22:37-04:00</updated>
+    <updated>2020-04-01T13:29:46-04:00</updated>
     <author>
         <name>Gordius Technologies Inc.</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.gordius.tech/applications.html"/>
         <id>https://www.gordius.tech/applications.html</id>
 
-        <updated>2020-04-01T13:22:32-04:00</updated>
+        <updated>2020-04-01T13:29:22-04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.gordius.tech/media/posts/5/Applications-Blackboard-3.jpg" alt="" />
@@ -30,8 +30,8 @@
                 <h2 id="mcetoc_1e4raqbgm0">Algorithmic Trading</h2>
 <p>Even though a significant volume of modern-day trading is algorithmic, this volume is not diverse; it is mainly due to a few firms. Most individual and/or small-scale investors still do not have the means to engage in algorithmic trading. Our technology can help mitigate this situation and make algorithmic trading more accessible to all interested parties.</p>
 <p>In order to prove our technology, we are currently using it ourselves to engage in algorithmic trading in cryptocurrency exchanges. If successful, this operation will also generate our first revenue stream.</p>
-<h2 id="mcetoc_1e4raqikl1">Industrial IoT</h2>
-<p>The rise of IIoT (Industrial IoT) edge devices has made the <em>Industry 4.0</em> vision achievable, yet many small/mid-market business are not able to take advantage of this promising paradigm shift. We believe that this unfortunate situation is mainly due to the absence of a turnkey end-to-end system these businesses can adopt with only a small amount of friction to their current day-to-day operations.</p>
+<h2 id="mcetoc_1e4raqikl1">Industrial Internet of Things</h2>
+<p>The rise of IIoT (Industrial Internet of Things) edge devices has made the <em>Industry 4.0</em> vision achievable, yet many small/mid-market business are not able to take advantage of this promising paradigm shift. We believe that this unfortunate situation is mainly due to the absence of a turnkey end-to-end system these businesses can adopt with only a small amount of friction to their current day-to-day operations.</p>
 <p>We hope to utilize our technology to enable small/mid-market businesses to take advantage of the Industry 4.0 paradigm.</p>
             ]]>
         </content>
@@ -44,18 +44,18 @@
         <link href="https://www.gordius.tech/summary.html"/>
         <id>https://www.gordius.tech/summary.html</id>
 
-        <updated>2020-04-01T12:57:03-04:00</updated>
+        <updated>2020-04-01T13:29:42-04:00</updated>
             <summary>
                 <![CDATA[
-                    Mission and VisionWe believe that high-efficiency stream processing, when driven by robust AI techniques, can be a game-changing advantage for many businesses. At Gordius Technologies, we strive to develop a complete E2E system for processing, analyzing, storing and acting on high-throughput time-series data. Our strategy is to&hellip;
+                    Mission and VisionWe believe that high-efficiency stream processing, when driven by robust AI techniques, can be a game-changing advantage for many businesses. At Gordius Technologies, we strive to develop a complete end-to-end system for processing, analyzing, storing and acting on high-throughput time-series data. Our strategy is to introduce&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <h2 id="mcetoc_1e4r9ff7c0">Mission and Vision</h2>
-<p>We believe that high-efficiency stream processing, when driven by robust AI techniques, can be a game-changing advantage for many businesses. At Gordius Technologies, we strive to develop a complete E2E system for processing, analyzing, storing and acting on high-throughput time-series data.</p>
+<p>We believe that high-efficiency stream processing, when driven by robust AI techniques, can be a game-changing advantage for many businesses. At Gordius Technologies, we strive to develop a complete end-to-end system for processing, analyzing, storing and acting on high-throughput time-series data.</p>
 <h2 id="mcetoc_1e4r9jdch1">Focus Areas</h2>
-<p>Our strategy is to introduce our technology into verticals where time-series data is the central "resource" or the "asset" of businesses. As a first step, we chose to focus on the algorithmic trading space. Our second focus area will be the IIoT (Industrial IoT) space.</p>
+<p>Our strategy is to introduce our technology into verticals where time-series data is the central "resource" or the "asset" of businesses. As a first step, we chose to focus on the algorithmic trading space. Our second focus area will be the IIoT (Industrial Internet of Things) space.</p>
             ]]>
         </content>
     </entry>
