@@ -10,5 +10,63 @@
         "name": "Gordius Technologies Inc."
     },
     "items": [
+        {
+            "id": "https://www.gordius.tech/applications.html",
+            "url": "https://www.gordius.tech/applications.html",
+            "title": "Applications",
+            "summary": "Describe applications here.",
+            "content_html": "Describe applications here.",
+            "image": "https://www.gordius.tech/media/posts/5/Applications-Blackboard.jpg",
+            "author": {
+                "name": "Gordius Technologies Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-31T18:26:18-04:00",
+            "date_modified": "2020-03-31T20:15:46-04:00"
+        },
+        {
+            "id": "https://www.gordius.tech/summary.html",
+            "url": "https://www.gordius.tech/summary.html",
+            "title": "AI-Driven Mission-Critical Stream Processing",
+            "summary": "Summarize.",
+            "content_html": "Summarize.",
+            "author": {
+                "name": "Gordius Technologies Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-31T17:01:14-04:00",
+            "date_modified": "2020-03-31T18:28:17-04:00"
+        },
+        {
+            "id": "https://www.gordius.tech/our-technology.html",
+            "url": "https://www.gordius.tech/our-technology.html",
+            "title": "Technology",
+            "summary": "Describe the technology.",
+            "content_html": "Describe the technology.",
+            "image": "https://www.gordius.tech/media/posts/3/Technology-Blackboard.jpg",
+            "author": {
+                "name": "Gordius Technologies Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-31T16:58:21-04:00",
+            "date_modified": "2020-03-31T21:07:58-04:00"
+        },
+        {
+            "id": "https://www.gordius.tech/about-us.html",
+            "url": "https://www.gordius.tech/about-us.html",
+            "title": "About Us",
+            "summary": "Describe the team.",
+            "content_html": "Describe the team.",
+            "author": {
+                "name": "Gordius Technologies Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-03-31T16:35:25-04:00",
+            "date_modified": "2020-03-31T16:35:25-04:00"
+        }
     ]
 }

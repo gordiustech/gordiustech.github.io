@@ -3,10 +3,94 @@
     <title>Gordius Technologies</title>
     <link href="https://www.gordius.tech/feed.xml" rel="self" />
     <link href="https://www.gordius.tech" />
-    <updated>1969-12-31T19:00:00-05:00</updated>
+    <updated>2020-03-31T21:08:41-04:00</updated>
     <author>
         <name>Gordius Technologies Inc.</name>
     </author>
     <id>https://www.gordius.tech</id>
 
+    <entry>
+        <title>Applications</title>
+        <author>
+            <name>Gordius Technologies Inc.</name>
+        </author>
+        <link href="https://www.gordius.tech/applications.html"/>
+        <id>https://www.gordius.tech/applications.html</id>
+
+        <updated>2020-03-31T20:15:46-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gordius.tech/media/posts/5/Applications-Blackboard.jpg" alt="" />
+                    Describe applications here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.gordius.tech/media/posts/5/Applications-Blackboard.jpg" alt="" />
+                Describe applications here.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>AI-Driven Mission-Critical Stream Processing</title>
+        <author>
+            <name>Gordius Technologies Inc.</name>
+        </author>
+        <link href="https://www.gordius.tech/summary.html"/>
+        <id>https://www.gordius.tech/summary.html</id>
+
+        <updated>2020-03-31T18:28:17-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Summarize.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Summarize.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Technology</title>
+        <author>
+            <name>Gordius Technologies Inc.</name>
+        </author>
+        <link href="https://www.gordius.tech/our-technology.html"/>
+        <id>https://www.gordius.tech/our-technology.html</id>
+
+        <updated>2020-03-31T21:07:58-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.gordius.tech/media/posts/3/Technology-Blackboard.jpg" alt="" />
+                    Describe the technology.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.gordius.tech/media/posts/3/Technology-Blackboard.jpg" alt="" />
+                Describe the technology.
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Gordius Technologies Inc.</name>
+        </author>
+        <link href="https://www.gordius.tech/about-us.html"/>
+        <id>https://www.gordius.tech/about-us.html</id>
+
+        <updated>2020-03-31T16:35:25-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Describe the team.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Describe the team.
+            ]]>
+        </content>
+    </entry>
 </feed>
