@@ -30,7 +30,7 @@
             "url": "https://www.gordius.tech/applications.html",
             "title": "Applications",
             "summary": "Algorithmic TradingEven though a significant volume of modern-day trading is algorithmic, this volume is not diverse; it is mainly due to a few firms. Most individual and/or small-scale investors still do not have the means to engage in algorithmic trading. Our technology can help mitigate this&hellip;",
-            "content_html": "<h3 id=\"mcetoc_1e4raqbgm0\">Algorithmic Trading</h3>\n<p>Even though a significant volume of modern-day trading is algorithmic, this volume is not diverse; it is mainly due to a few firms. Most individual and/or small-scale investors still do not have the means to engage in algorithmic trading. Our technology can help mitigate this situation and make algorithmic trading more accessible to all interested investors.</p>\n<p>In order to prove our technology, we are currently using it ourselves to engage in algorithmic trading in cryptocurrency exchanges. If successful, this operation will also generate our first revenue stream.</p>\n<h3 id=\"mcetoc_1e4raqikl1\">Industrial Internet of Things</h3>\n<p>The ubiquity of IIoT (Industrial Internet of Things) edge devices has made the <a href=\"https://en.wikipedia.org/wiki/Industry_4.0\">Industry 4.0</a> vision achievable, yet many small/mid-market businesses are not able to take advantage of this promising paradigm shift. We believe that this unfortunate situation is mainly due to the absence of a turnkey end-to-end system that these businesses can adopt with only a small amount of friction to their current day-to-day operations.</p>\n<p>We hope to utilize our technology to enable small/mid-market businesses to take advantage of the Industry 4.0 paradigm.</p>",
+            "content_html": "<h3 id=\"mcetoc_1e4raqbgm0\">Algorithmic Trading</h3>\n<p>Even though a significant volume of modern-day trading is algorithmic, this volume is not diverse; it is mainly due to a few firms. Most individual and/or small-scale investors still do not have the means to engage in algorithmic trading. Our technology can help mitigate this situation and make algorithmic trading more accessible to all interested investors.</p>\n<p>In order to prove our technology, we are currently using it ourselves to engage in algorithmic trading in cryptocurrency exchanges. If successful, this operation will also generate our first revenue stream.</p>\n<h3 id=\"mcetoc_1e4raqikl1\">Industrial Internet of Things</h3>\n<p>The ubiquity of IIoT (Industrial Internet of Things) edge devices has made the <a href=\"https://en.wikipedia.org/wiki/Industry_4.0\" target=\"_blank\" rel=\"noopener noreferrer\">Industry 4.0</a> vision achievable, yet many small/mid-market businesses are not able to take advantage of this promising paradigm shift. We believe that this unfortunate situation is mainly due to the absence of a turnkey end-to-end system that these businesses can adopt with only a small amount of friction to their current day-to-day operations.</p>\n<p>We hope to utilize our technology to enable small/mid-market businesses to take advantage of the Industry 4.0 paradigm.</p>",
             "image": "https://www.gordius.tech/media/posts/5/Applications-Blackboard-3.jpg",
             "author": {
                 "name": "Gordius Technologies Inc."
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2020-03-31T18:26:18-04:00",
-            "date_modified": "2020-04-01T15:49:42-04:00"
+            "date_modified": "2020-04-01T20:08:54-04:00"
         },
         {
             "id": "https://www.gordius.tech/summary.html",
@@ -59,7 +59,7 @@
             "url": "https://www.gordius.tech/our-technology.html",
             "title": "Technology",
             "summary": "Our technology is \"cloud-native\": Our software runs on AWS where we leverage Kubernetes to orchestrate our software components, which we develop in Python and containerize via Docker. We use FoundationDB to store/house time-series data. FoundationDB's CP consistency model and its customizable layers enable us to effectively&hellip;",
-            "content_html": "<p>Our technology is \"cloud-native\": Our software runs on <a href=\"https://aws.amazon.com\">AWS</a> where we leverage <a href=\"https://kubernetes.io\">Kubernetes</a> to orchestrate our software components, which we develop in Python and containerize via <a href=\"https://docker.com\">Docker</a>.</p>\n<p>We use <a href=\"https://www.foundationdb.org\">FoundationDB</a> to store/house time-series data. FoundationDB's CP consistency model and its customizable layers enable us to effectively utilize it as a high-throughput time-series database.</p>\n<p>We utilize both in-house ML (Machine Learning) code and also leverage <a href=\"https://pytorch.org\">PyTorch</a> for our ML components.</p>",
+            "content_html": "<p>Our technology is \"cloud-native\": Our software runs on <a href=\"https://aws.amazon.com\" target=\"_blank\" rel=\"noopener noreferrer\">AWS</a> where we leverage <a href=\"https://kubernetes.io\" target=\"_blank\" rel=\"noopener noreferrer\">Kubernetes</a> to orchestrate our software components, which we develop in Python and containerize via <a href=\"https://docker.com\" target=\"_blank\" rel=\"noopener noreferrer\">Docker</a>.</p>\n<p>We use <a href=\"https://www.foundationdb.org\" target=\"_blank\" rel=\"noopener noreferrer\">FoundationDB</a> to store/house time-series data. FoundationDB's CP consistency model and its customizable layers enable us to effectively utilize it as a high-throughput time-series database.</p>\n<p>We utilize both in-house ML (Machine Learning) code and also leverage <a href=\"https://pytorch.org\" target=\"_blank\" rel=\"noopener noreferrer\">PyTorch</a> for our ML components.</p>",
             "image": "https://www.gordius.tech/media/posts/3/Technology-Blackboard-2.jpg",
             "author": {
                 "name": "Gordius Technologies Inc."
@@ -67,14 +67,14 @@
             "tags": [
             ],
             "date_published": "2020-03-31T16:58:21-04:00",
-            "date_modified": "2020-04-01T14:02:54-04:00"
+            "date_modified": "2020-04-01T20:08:40-04:00"
         },
         {
             "id": "https://www.gordius.tech/about-us.html",
             "url": "https://www.gordius.tech/about-us.html",
             "title": "About Us",
             "summary": "Mehmet Ozan Kabak, Ph.D.Founder Mehmet Ozan got two B.S. degrees from METU in 2008 (double majoring in Electrical Engineering and Computer Engineering) and M.S./Ph.D. degrees in Electrical Engineering from Stanford University in 2010/2015 where he focused on applications of non-linear optimization techniques. Prior to founding Gordius&hellip;",
-            "content_html": "<h4 id=\"mcetoc_1e4rib8up1\"><a href=\"https://www.linkedin.com/in/mehmet-ozan-kabak-ph-d-b2a38b4a/\">Mehmet Ozan Kabak, Ph.D.</a><span style=\"display: block; float: right; text-align: right;\">Founder</span></h4>\n<br>\n<p><img class=\"post__image post__image--right\" src=\"https://www.gordius.tech/media/posts/2/Founder.png\" alt=\"Mehmet Ozan Kabak\" width=\"200\" height=\"200\">Mehmet Ozan got two B.S. degrees from METU in 2008 (double majoring in Electrical Engineering and Computer Engineering) and M.S./Ph.D. degrees in Electrical Engineering from Stanford University in 2010/2015 where he focused on applications of non-linear optimization techniques. Prior to founding Gordius Technologies, Mehmet Ozan worked in various start-ups in Silicon Valley: Upon graduation, he first joined <a href=\"https://www.striim.com/\">Striim</a> where he was responsible for adding ML capabilities to Striim's software. After Striim, he joined <a href=\"https://www.optumsoft.com/\">OptumSoft</a> where he worked closely with the CEO to design, develop and launch OptumSoft's IIoT technology. Lastly, he was with <a href=\"https://www.naverlabs.com\">Naver Labs</a> where he worked on core software technologies for autonomous urban air vehicles and helped establish the new Silicon Valley branch.</p>\n<p>In his free time, Mehmet Ozan enjoys sailing, playing tennis and spending time with his family.</p>",
+            "content_html": "<h4 id=\"mcetoc_1e4rib8up1\"><a href=\"https://www.linkedin.com/in/mehmet-ozan-kabak-ph-d-b2a38b4a/\" target=\"_blank\" rel=\"noopener noreferrer\">Mehmet Ozan Kabak, Ph.D.</a><span style=\"display: block; float: right; text-align: right;\">Founder</span></h4>\n<br>\n<p><img class=\"post__image post__image--right\" src=\"https://www.gordius.tech/media/posts/2/Founder.png\" alt=\"Mehmet Ozan Kabak\" width=\"200\" height=\"200\">Mehmet Ozan got two B.S. degrees from METU in 2008 (double majoring in Electrical Engineering and Computer Engineering) and M.S./Ph.D. degrees in Electrical Engineering from Stanford University in 2010/2015 where he focused on applications of non-linear optimization techniques. Prior to founding Gordius Technologies, Mehmet Ozan worked in various start-ups in Silicon Valley: Upon graduation, he first joined <a href=\"https://www.striim.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Striim</a> where he was responsible for adding ML capabilities to Striim's software. After Striim, he joined <a href=\"https://www.optumsoft.com/\" target=\"_blank\" rel=\"noopener noreferrer\">OptumSoft</a> where he worked closely with the CEO to design, develop and launch OptumSoft's IIoT SaaS solution. Lastly, he was with <a href=\"https://www.naverlabs.com\" target=\"_blank\" rel=\"noopener noreferrer\">Naver Labs</a> where he worked on core software technologies for autonomous urban air vehicles and helped establish the new Silicon Valley branch.</p>\n<p>In his free time, Mehmet Ozan enjoys sailing, playing tennis and spending time with his family.</p>",
             "image": "https://www.gordius.tech/media/posts/2/About-Us-Blackboard.jpg",
             "author": {
                 "name": "Gordius Technologies Inc."
@@ -82,7 +82,7 @@
             "tags": [
             ],
             "date_published": "2020-03-31T16:35:25-04:00",
-            "date_modified": "2020-04-01T15:50:23-04:00"
+            "date_modified": "2020-04-01T20:10:04-04:00"
         }
     ]
 }
