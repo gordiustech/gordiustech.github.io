@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.gordius.tech/contact-us.html",
+            "url": "https://www.gordius.tech/contact-us.html",
+            "title": "Contact Us",
+            "summary": "Interested in hearing more about us or our technology? Reach us via email.",
+            "content_html": "Interested in hearing more about us or our technology? Reach us via <a href=\"mailto:gordiustechnologies@gmail.com\">email</a>.",
+            "image": "https://www.gordius.tech/media/posts/6/Contact-Us-Blackboard.jpg",
+            "author": {
+                "name": "Gordius Technologies Inc."
+            },
+            "tags": [
+            ],
+            "date_published": "2020-04-01T19:52:05-04:00",
+            "date_modified": "2020-04-01T20:03:57-04:00"
+        },
+        {
             "id": "https://www.gordius.tech/applications.html",
             "url": "https://www.gordius.tech/applications.html",
             "title": "Applications",
