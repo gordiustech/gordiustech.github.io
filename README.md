@@ -1,3 +1,4 @@
-# gordiustech.github.io
+# Python Package Server
 
-Gordius Technologies Website
+This is a GitHub pages site serving as a PyPI Server for Gordius packages.
+
