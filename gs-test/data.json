@@ -108,6 +108,11 @@
     "href": "git+https://github.com/gordiustech/gs_test@5.0.13#egg=gs_test-5.0.13",
     "python_dep": "&gt;=3.7.0",
     "text": "gs_test-5.0.13"
+  },
+  {
+    "href": "git+https://github.com/gordiustech/gs_test@5.0.14#egg=gs_test-5.0.14",
+    "python_dep": "&gt;=3.7.0",
+    "text": "gs_test-5.0.14"
   }
 ]
 
