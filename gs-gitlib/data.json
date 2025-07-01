@@ -1,6 +1,6 @@
 [
   {
-    "href": "git+https://github.com/gordiustechnologies/gs_gitlib#egg=gs_gitlib-0.0.1",
+    "href": "https://raw.githubusercontent.com/gordiustech/gs_gitlib/master/dist/gs_gitlib-0.0.1-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "gs_gitlib-0.0.1"
   }
