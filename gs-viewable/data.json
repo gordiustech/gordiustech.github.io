@@ -1,6 +1,6 @@
 [
   {
-    "href": "git+https://github.com/gordiustechnologies/gs_viewable#egg=gs_viewable-0.0.1",
+    "href": "https://raw.githubusercontent.com/gordiustech/gs_viewable/master/dist/gs_viewable-0.0.1-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "gs_viewable-0.0.1"
   }
