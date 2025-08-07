@@ -1,6 +1,6 @@
 [
   {
-    "href": "git+https://github.com/gordiustechnologies/gs_fdb#egg=gs_fdb-0.0.1",
+    "href": "https://raw.githubusercontent.com/gordiustech/gs_fdb/master/dist/gs_fdb-0.0.1-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "gs_fdb-0.0.1"
   }
